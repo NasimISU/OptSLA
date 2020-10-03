@@ -73,6 +73,9 @@ In case of any queries, please contact us at
   <li>nasim@iastate.edu</li>
 </ul>
 
+<h3>Evaluation Note</h3>
+The dataset provided contains 4515 sentences, the results published in the paper are evaluated on 3466 sentences to match with baselines.
+
 <h3>References</h3>
 https://arxiv.org/abs/1709.01779
 
