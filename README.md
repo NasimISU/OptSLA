@@ -79,7 +79,7 @@ The dataset provided contains 4515 sentences, the results published in the paper
 <h3>References</h3>
 https://www.aclweb.org/anthology/2020.findings-emnlp.119/
 
-Citing:
+<h3>Citing</h3>
 
 @inproceedings{sabetpour2020optsla,
   title={OptSLA: an Optimization-Based Approach for Sequential Label Aggregation},
