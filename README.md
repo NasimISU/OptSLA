@@ -69,14 +69,14 @@ This will create a file in calculations folder with the results.
 
 In case of any queries, please contact us at
 <ul>
-  <li>aditkulk@iastate.edu</li>
   <li>nasim@iastate.edu</li>
+  <li>aditkulk@iastate.edu</li>
 </ul>
 
 <h3>Evaluation Note</h3>
 The dataset provided contains 4515 sentences, the results published in the paper are evaluated on 3466 sentences to match with baselines.
 
 <h3>References</h3>
-https://arxiv.org/abs/1709.01779
+https://www.aclweb.org/anthology/2020.findings-emnlp.119/
 
 </html>
